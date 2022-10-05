@@ -2,6 +2,11 @@
 
 Flutter Package.
 
+
+<h2>ScreenRecorder :iphone:</h2>
+
+[video](https://user-images.githubusercontent.com/99097697/194133950-037866e9-ea2c-4546-814a-c1d53e485445.mp4)
+
 ## Hints
 
 - you can get curved_navigation_bar package from [Here](https://pub.dev/packages/curved_navigation_bar)
